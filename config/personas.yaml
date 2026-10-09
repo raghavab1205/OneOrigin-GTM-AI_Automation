@@ -1,0 +1,41 @@
+personas:
+  registrar:
+    title_keywords: [registrar, transfer, articulation, evaluat, records, credential]
+    cares_about: evaluation workload, turnaround time, articulation accuracy, handling exceptions, staff capacity
+    angle: Link the institution's systems or transfer rules to what the product does with transcripts and exceptions.
+    evidence_fields: [tech_stack, regulatory_context, strategic_goals]
+    lead_products: [airr, discarc]
+    product_queries:
+      - extracting courses grades and credits from transcripts and sending exceptions to a human reviewer
+      - integration with student information systems such as Banner or PeopleSoft
+      - what the product does not do and its limits
+  enrollment:
+    title_keywords: [enrollment, admissions, provost, recruit, yield]
+    cares_about: growing transfer enrollment, how fast students get clarity, yield, conversion
+    angle: Link the institution's transfer or enrollment goals to students seeing likely credit transfer before applying.
+    evidence_fields: [strategic_goals]
+    lead_products: [transferme]
+    product_queries:
+      - student uploads an unofficial transcript and sees what is likely to transfer
+      - limits and what the estimate does not guarantee
+
+banned_phrases:
+  - struggl
+  - backlog
+  - bottleneck
+  - delay
+  - frustrat
+  - overwhelm
+  - pain point
+  - problem
+  - behind
+  - inefficien
+  - slow
+  - drowning
+  - guarantee
+  - proven
+  - roi
+  - ensure
+  - next week
+  - this week
+  - minute

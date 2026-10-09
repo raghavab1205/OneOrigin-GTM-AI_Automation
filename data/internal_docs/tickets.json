@@ -1,0 +1,18 @@
+[
+  {
+    "ticket_id": "T-101",
+    "product": "airr",
+    "status": "closed",
+    "opened": "2026-02-11",
+    "summary": "PESC file failed to parse",
+    "resolution": "Fixed in parser update"
+  },
+  {
+    "ticket_id": "T-102",
+    "product": "discarc",
+    "status": "open",
+    "opened": "2026-08-30",
+    "summary": "Catalog year mismatch on equivalency suggestion",
+    "resolution": ""
+  }
+]
